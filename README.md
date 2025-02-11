@@ -78,6 +78,7 @@ To deploy the application using Firebase Hosting:
    firebase deploy
    ```
 ## Screenshots of output UI
+https://github.com/sejaltirpude7058/PlanPal-Todo-App/issues/1#issue-2844947765
 
 ## Contributing
 
