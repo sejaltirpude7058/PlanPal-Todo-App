@@ -14,7 +14,7 @@ PlanPal is a user-friendly task management application designed to help you orga
 
 - **Frontend:** React.js, JavaScript, Material UI
 - **Backend:** Firebase (Firestore, Authentication, Cloud Messaging)
-- **State Management:** Context API / Redux
+- **State Management:** Context API 
 - **Hosting:** Firebase Hosting
 
 ## Installation & Setup
