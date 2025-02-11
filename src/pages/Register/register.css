@@ -1,0 +1,85 @@
+.register--container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+
+
+.register{
+    margin-top: 5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    margin-top: 4em;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+    width: 320px;
+    padding: 1em;
+    background-color: #fff;
+    border-radius: 3px;
+    /* box-shadow: 0px 4px 8px 0px  rgb(173, 172, 172); */
+}
+
+form .register--input{
+    margin-bottom: 1.3em;
+    background-color: #fff;
+    border: 2px solid #1398c4;
+    border-top: none;
+    border-radius: 5px;
+   
+}
+
+.register--btn{
+  width: 100%;
+}
+
+
+.google--btn{
+    width: 100%;
+    background-color: #ee186a;
+    color: #fff;
+}
+
+.sign--in--btn{
+    text-decoration: none;
+    font-weight: 500;
+    color: #138db6;
+   
+    
+}
+
+@media (max-width: 768px) {
+    
+  .register {
+    flex-direction: column; 
+    padding: 2em;
+  }
+
+  .register img {
+    display: block; 
+    margin-top: 0; 
+    margin-bottom: 1em; 
+  }
+
+  form {
+    margin-top: 0; 
+    width: 100%; 
+    padding: 1em; 
+  }  
+
+  img{
+    width: 100%;
+  } 
+
+} 
+
+
+
+

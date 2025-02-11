@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lato:wght@100;300;400;700;900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lato:wght@100;300;400;700;900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+  margin: 0;
+ 
+ 
+}
+
+body {
+  
+  /* text-align: center; */
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #fff;
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+#root{
+    animation: fadeIn 1.5s;
+}
+
+@keyframes fadeIn {
+  0%{
+    opacity: 0.8;
+  }
+  100%{
+    opacity: 1;
+  }
+}
+
+
+
+
+
+
+
+
+/*
+
+--picton-blue: #3ac5fc;
+--french-rose: #fe5f9c;
+--heliotrope: #c35dff;
+--saffron: #fec638;
+--lima: #85e44a;
+
+*/

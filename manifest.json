@@ -1,0 +1,10 @@
+{
+  "name": "PlanPal",
+  "short_name": "PlanPal",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1398c4",
+  "description": "PlanPal: Simplify your planning with ease.",
+  "icons": []
+}

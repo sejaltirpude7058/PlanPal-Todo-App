@@ -1,0 +1,32 @@
+.user--greet{
+   
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2em;
+    padding: 0.5em;
+    margin-top: 4em;
+    width: 95vw;
+    margin-left: 0.5em;
+    
+    
+}
+
+.user--greet h2{
+    color :  #043468 ;
+    font-weight : 500;
+    font-size: 2em;
+}
+
+.user--greet .date--head{
+    font-size: 1.5em;
+     font-weight : 500;
+    color: #043468;
+    margin-top: 0.5em;
+}
+
+.user--greet span{
+    background: linear-gradient(to right, #f9018d,  #fea101);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}

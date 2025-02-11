@@ -1,0 +1,108 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  width: 100vw;
+  background-color: #fff;
+  padding-bottom: 5em;
+}
+
+.login {
+  margin-top: 5em;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2em;
+  border-radius: 10px;
+  gap: 1em;
+  flex-direction: row;
+}
+
+form .input {
+  margin-bottom: 1.3em;
+  background-color: #fff;
+  border: 2px solid #1398c4;
+  border-top: none;
+  border-radius: 5px;
+}
+
+h1 {
+  margin-bottom: 0.5em;
+  color: #1398c4;
+  font-size: 1.5em;
+}
+
+img {
+  margin-top: 3em;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 2em;
+}
+
+form {
+  margin-top: 10em;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1em;
+  width: 350px;
+  padding: 3em;
+  background-color: #fff;
+  border-radius: 3px;
+}
+
+p {
+  padding: 0.5em;
+}
+
+.btnSign {
+  margin: 1em;
+}
+
+.btnSign img {
+  margin: 7px;
+}
+
+.login .login--btn {
+  background-color: #1398c4;
+  width: 100%;
+}
+
+.sign--up--btn {
+  text-decoration: none;
+  font-weight: 500;
+  color: #138db6;
+}
+
+@media (max-width: 768px) {
+  .login {
+    margin-top: 7em;
+    flex-direction: column;
+    padding: 2em;
+  }
+
+  .login img {
+    display: block;
+    margin-top: 0;
+    margin-bottom: 1.5em;
+  }
+
+  form {
+    margin-top: 0;
+    width: 100%;
+    padding: 1em;
+  }
+
+  img {
+    width: 100%;
+  }
+}
+
+
+
+
+
+
+
+

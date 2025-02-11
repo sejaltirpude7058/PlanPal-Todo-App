@@ -1,0 +1,105 @@
+/* Navbar Styles */
+nav {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #032a5e;
+  position: fixed; /* Fixed position ensures the navbar stays at the top */
+  width: 100%;
+  margin: 0 auto;
+  z-index: 1000; /* Fixed typo: Removed comma */
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+  font-family: "Great Vibes", cursive;
+  font-weight: 700;
+  font-size: 2em;
+  color: #ff9625;
+  /* text-shadow: 1px 1px 0 #fffdfd, -1px 1px 0 #fffefe, 1px -1px 0 #fefefe, -1px -1px 0 #faf8f8; */
+}
+
+.navbar-links {
+  display: flex;
+  gap: 1em;
+}
+
+.navbar-link {
+  font-weight: 600;
+  font-size: 1.2em;
+  text-decoration: none;
+  color: #65d1f5fa;
+  padding: 0.5em 1em;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.navbar-link:hover {
+  background-color: #023e8a;
+  color: white;
+}
+
+/* Hamburger styles */
+.hamburger {
+  display: none;
+  font-size: 2em;
+  background: none;
+  border: none;
+  color: #65d1f5fa;
+  cursor: pointer;
+  outline: none;
+}
+
+.navbar-links {
+  display: flex;
+  gap: 1em;
+  transition: max-height 0.3s ease-in-out;
+}
+
+.navbar-links.show-menu {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background-color: #032a5e;
+  width: 100%;
+  padding: 1em 0;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 1000; /* Fixed typo: Removed comma */
+}
+
+.navbar-link {
+  padding: 0.8em 1.2em;
+  text-align: center;
+}
+
+/* Media query for small screens */
+@media (max-width: 768px) {
+  .hamburger {
+    display: block;
+  }
+
+  .navbar-links {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    z-index: 1000; /* Fixed typo: Removed comma */
+  }
+}
+
+
+
+
+

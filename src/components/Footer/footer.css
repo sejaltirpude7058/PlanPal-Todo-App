@@ -1,0 +1,28 @@
+.app-footer {
+ margin-top: 1em;
+  background-color: #022756;
+  color: #f9f9f9;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 14px;
+  z-index: 1000;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-highlight {
+  color: #ff9822; /* Highlighted color for your name */
+  font-weight: bold;
+}
+
+.app-footer p {
+  margin: 5px 0;
+}
+
+@media (max-width: 768px) {
+  .app-footer {
+    font-size: 12px;
+    padding: 10px 0;
+  }
+}
