@@ -5,11 +5,13 @@ PlanPal is a user-friendly task management application designed to help you orga
 
 ## Key Features
 
-- **Task Management** – Create, update, and delete tasks seamlessly.
-- **Reminders & Notifications** – Stay on top of your tasks with real-time alerts.
-- **User Authentication** – Secure login and personalized task management.
-- **Cross-Device Sync** – Access your tasks from multiple devices.
-- **Intuitive UI** – A clean and simple interface for effortless navigation.
+- **Task Management** – Create and delete tasks seamlessly.  
+- **Categorized Task Organization** – Organize tasks into different categories for better tracking.  
+- **Priority Settings** – Set task priorities (Urgent, High, Medium, Low) to manage work efficiently.  
+- **Reminders & Notifications** – Get real-time alerts to stay on top of your tasks.  
+- **User Authentication** – Secure login system for personalized task management.  
+- **Cross-Device Sync** – Access your tasks from multiple devices anytime, anywhere.  
+- **Intuitive UI** – A clean, user-friendly interface for effortless navigation and task handling. 
 
 ## Tech Stack
 
