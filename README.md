@@ -77,6 +77,9 @@ To deploy the application using Firebase Hosting:
    ```sh
    firebase deploy
    ```
+## Live Demo 
+https://planpal-37385.web.app/
+
 ## Screenshots of output UI
 https://github.com/sejaltirpude7058/PlanPal-Todo-App/issues/1#issue-2844947765
 
