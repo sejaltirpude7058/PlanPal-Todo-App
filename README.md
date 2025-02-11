@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
 # PlanPal - Your Smart To-Do Companion
 
 PlanPal is a user-friendly task management application designed to help you organize your daily tasks efficiently. With a clean interface and powerful features, it simplifies planning, tracking, and completing tasks with ease.
@@ -98,5 +89,3 @@ https://github.com/sejaltirpude7058/PlanPal-Todo-App/issues/1#issue-2844947765
 Feel free to fork the repository, create a new branch, and submit a pull request with your improvements.
 
 
-
->>>>>>> 3c7ea4b19c5701a16ff88c5dcc5382141a313be1
