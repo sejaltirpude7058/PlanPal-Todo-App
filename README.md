@@ -22,7 +22,7 @@ PlanPal is a user-friendly task management application designed to help you orga
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/planpal.git
+   git clone https://github.com/sejaltirpude7058/planpal.git
    ```
 
 2. Navigate to the project folder:
