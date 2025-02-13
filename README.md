@@ -84,7 +84,13 @@ To deploy the application using Firebase Hosting:
 https://planpal-37385.web.app/
 
 ## Screenshots of output UI
-https://github.com/sejaltirpude7058/PlanPal-Todo-App/issues/1#issue-2844947765
+![Image](https://github.com/user-attachments/assets/6ab5237a-337b-467c-9d9f-499ef459dcff)
+
+![Image](https://github.com/user-attachments/assets/6b897a2c-4f81-4844-b382-af7db35c6ba1)
+
+![Image](https://github.com/user-attachments/assets/cf0ce12b-b76a-45ec-b0b5-b4992b381ac9)
+
+![Image](https://github.com/user-attachments/assets/e33d2928-ad4d-4271-bef2-ab7c54b675ce)
 
 ## Contributing
 
