@@ -92,8 +92,6 @@ https://planpal-37385.web.app/
 
 ![Image](https://github.com/user-attachments/assets/e33d2928-ad4d-4271-bef2-ab7c54b675ce)
 
-## Contributing
 
-Feel free to fork the repository, create a new branch, and submit a pull request with your improvements.
 
 
